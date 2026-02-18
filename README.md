@@ -29,9 +29,12 @@ This script intercepts those API responses and displays all that hidden info in 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Edge, Safari) or [Greasemonkey](https://www.greasespot.net/) (Firefox)
 2. Click the Tampermonkey icon in your browser → **Create a new script**
 3. Delete everything in the editor
-4. Copy and paste the contents of [`walmart-queue-monitor.user.js`](walmart-queue-monitor.user.js)
+4. Copy and paste the contents of [`monitor.js`](monitor.js)
 5. Press **Ctrl+S** (or **Cmd+S**) to save
-6. Navigate to [walmart.com](https://www.walmart.com) — you should see the overlay appear in the top-right corner
+6. Enable developer mode in chrome extensions
+   a. Go to chrome://extensions
+   b. Enable Developer Mode (toggle in top-right)
+8. Navigate to [walmart.com](https://www.walmart.com) — you should see the overlay appear in the top-right corner
 
 ## Usage
 
