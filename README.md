@@ -34,6 +34,7 @@ This script intercepts those API responses and displays all that hidden info in 
 6. Enable developer mode in chrome extensions
    a. Go to chrome://extensions
    b. Enable Developer Mode (toggle in top-right)
+7. Ensure User Scripts are allowed to run as well. You can find that in the extensions settings page in your desired browser
 8. Navigate to [walmart.com](https://www.walmart.com) — you should see the overlay appear in the top-right corner
 
 ## Usage
